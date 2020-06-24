@@ -1,5 +1,5 @@
 # Лабораторная работа №6
-Отчет - [report.pdf](https://github.com/Marfington/TMO/blob/master/lab6/report.pdf)
+Отчет - [report.docx](https://github.com/Marfington/TMO/blob/master/lab6/report.docx)
 
 Ноутбук - [lab6.ipynb](https://github.com/Marfington/TMO/blob/master/lab6/lab6.ipynb)
 
