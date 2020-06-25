@@ -1,5 +1,5 @@
-# Рубежный контроль №1
+# Рубежный контроль №2
 
-Датасет - [states_all.csv](https://github.com/Marfington/TMO/blob/master/rk1/states_all.csv)
+Датасет - [apple-twitter-sentiment-texts.csv](https://github.com/Marfington/TMO/blob/master/rk2/apple-twitter-sentiment-texts.csv)
 
-Ноутбук - [RK1.ipynb](https://github.com/Marfington/TMO/blob/master/rk1/RK1.ipynb)
+Ноутбук - [rk2.ipynb](https://github.com/Marfington/TMO/blob/master/rk2/rk2.ipynb)
