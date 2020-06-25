@@ -9,3 +9,8 @@
 - [Лабораторная Работа №4](https://github.com/Marfington/TMO//tree/master/lab4)
 - [Лабораторная Работа №5](https://github.com/Marfington/TMO//tree/master/lab5)
 - [Лабораторная Работа №6](https://github.com/Marfington/TMO//tree/master/lab6)
+
+# Рубежные контроли
+
+- [Рубежный Контроль №1](https://github.com/Marfington/TMO//tree/master/rk1)
+- [Рубежный Контроль №2](https://github.com/Marfington/TMO//tree/master/rk2)
