@@ -14,3 +14,7 @@
 
 - [Рубежный Контроль №1](https://github.com/Marfington/TMO//tree/master/rk1)
 - [Рубежный Контроль №2](https://github.com/Marfington/TMO//tree/master/rk2)
+
+# Курсовая работа
+
+- [Курсовая работа](https://github.com/Marfington/TMO//tree/master/CourseWork)
